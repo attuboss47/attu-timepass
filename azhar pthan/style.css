@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.mainhome{
+    background-color: rgb(69, 236, 85);
+}
+.parent{
+    background-color: greenyellow;
+    height: 600px; 
+}
+.child{
+    background-color: rgb(222, 21, 21);
+    padding-top: 50px;
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+    position: relative;
+    top: 80px;
+    border-radius: 10px;
+    padding: 100px;
+    
+   
+}
+.parent1{
+    background-color: rgb(50, 94, 205);
+    height: 600px; 
+
+}
+.child1{
+    
+    background-color: rgb(21, 222, 28);
+    padding-top: 50px;
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+    position: relative;
+    top: 80px;
+    border-radius: 10px;
+    padding: 100px;
+    
+
+}
+input::placeholder{
+    text-align: center;
+}   
+input{
+    border: 0px;
+}
+nav{
+    background-color: yellow;
+    padding: 10px;
+}
+img{
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border: 2px solid black;
+    
+    box-shadow: 3px 3px rgb(85, 76, 76);
+    
+}
+.paragraph{
+    color: rgb(10, 10, 10);
+    background-color: yellow;
+    box-shadow:2px  rgb(222, 21, 21);
+}
+button{
+    background-color: aqua;
+    color: 1px black;
+    border-radius: 5px;
+    padding: 5px;
+}
+button:hover{
+    background-color: rgb(134, 214, 73);
+    color: 1px rgb(180, 48, 48);
+    border-radius: 5px;
+    padding: 5px;
+}
+a{
+
+}
+.main1{
+    height: 200px;
+}
+.paddingtop{
+    padding-top: 50px;
+}
+.headingsign{
+  position:fixed ;
+  margin-left: 650px;
+  
+}
+
+   
+.anchor{
+ text-decoration: none;
+    color:crimson;
+}
+.circle{
+    border: 2px ;
+}
